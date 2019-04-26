@@ -9,6 +9,11 @@ This mini-course is part of [Flisol Natal 2019](https://flisol.potilivre.org/) a
 - Advanced plotting with Seaborn/Plotly/Bokeh
 - Geospatial Data Visualization
 
+## Requirements
+
+- Programming skills (necessary)
+- Core Python knowledge (recommended)
+
 ## Authors
 - [Aguinaldo Bezerra](https://github.com/aguinaldoabbj)
 - [Gisliany Alves](https://github.com/gisliany)
